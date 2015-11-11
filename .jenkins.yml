@@ -1,0 +1,2 @@
+jenkins:
+  jobType: maven-basic
